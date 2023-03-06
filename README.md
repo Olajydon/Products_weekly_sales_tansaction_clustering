@@ -1,4 +1,4 @@
-# weekly_sales_tansaction_clustering
+# products_sales_tansaction_clustering
 # Aim
 To use data mining techniques to group the different products in the dataset into different sales groups.
 # Data set
