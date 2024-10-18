@@ -1,4 +1,4 @@
-# Insight into Weekly Product Sales using Clustering
+# Insight into Weekly Product Sales using Clustering l
 # Aim
 To use data mining techniques to group the different products in the dataset into different sales groups.
 # Data set
