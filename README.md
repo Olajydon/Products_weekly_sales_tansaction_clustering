@@ -1,5 +1,5 @@
 # Insight into Weekly Product Sales using Clustering
-# Aim m
+# Aim
 To use data mining techniques to group the different products in the dataset into different sales groups.
 # Data set
 The weekly sales transaction dataset used for this work was obtained from the uci machine learning repository [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00396/). 
